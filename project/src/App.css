@@ -1,0 +1,24 @@
+*{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+}
+h1 {
+         font-weight:700;
+         font-size: 40px;
+        margin-top: 10px;
+         background-color: red;
+}
+input{
+        width: 100%;
+}
+.todoItem{
+        text-align: left;
+}
+.kg-row{
+        margin: 10px;
+}
+.kg-button{
+        min-width: 160px;
+        margin-left: 0px;
+}
